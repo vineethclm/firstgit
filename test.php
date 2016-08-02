@@ -22,5 +22,17 @@
 
 Test the second pull!
 
+
+
+<?php
+
+
+	function test(){
+
+		echo "some unwanted comments goes here";
+	}
+
+?>
+
 </body>
 </html>
